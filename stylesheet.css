@@ -1,0 +1,102 @@
+nav{
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: whitesmoke;
+    outline-style: dotted;
+    color: black;
+}
+
+nav ul li {
+    list-style: none;
+    text-align: center;
+    font-style: oblique;
+
+}
+
+nav a:hover{
+    background-color: pink
+}
+
+html{
+    background-color: pink;
+}
+
+header h1{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 55px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    border: dashed; 
+    border-radius: 1mm;
+    background-color: white;
+    
+}
+
+header h2{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 35px;
+    font-weight: lighter;
+    text-align: center;
+    text-decoration: underline;
+}
+
+div ul li{
+
+    padding: 15px;
+    margin-left: 450px;
+    margin-right: 500px;
+    background-color: white;
+    list-style: circle;
+    list-style-position: inside;
+    
+}
+
+div ul li{
+    color: deeppink;
+    text-align: left;
+    border:  dotted black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+a button {
+    background-color:whitesmoke;
+    color: deeppink;
+    border: 2px solid deeppink;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 9px;
+    margin-left: 700px;
+
+}
+
+button {
+    background-color: whitesmoke;
+    color: deeppink;
+    font-size: 20px;
+    border: 2px solid deeppink;
+    border-radius: 8px;
+    padding: 9px;
+    margin-left: 200px;
+    font-weight: lighter;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+
+}
+
+footer{
+    margin-left: 1250px;
+    color: deeppink;
+    font-family: cursive;
+
+}
+
+a{
+    color: deeppink;
+}
